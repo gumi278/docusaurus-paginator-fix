@@ -78,6 +78,4 @@ If you encounter any problems or want to suggest improvements, feel free to open
 
 ## 📄 License
 
-This patch is released under the [MIT License](LICENSE).
-
-```
+This patch is released under the [MIT License](./LICENSE).
