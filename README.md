@@ -1,0 +1,1 @@
+# docusaurus-paginator-fix
