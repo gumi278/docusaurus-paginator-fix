@@ -39,7 +39,7 @@ Here’s how the paginator looks **before and after** applying this patch:
 
 ```sh
 mkdir -p src/theme/BlogPostPaginator
-curl -o src/theme/BlogPostPaginator/index.tsx https://raw.githubusercontent.com/MYNAME/docusaurus-paginator-fix/main/src/theme/BlogPostPaginator/index.tsx
+curl -o src/theme/BlogPostPaginator/index.tsx https://raw.githubusercontent.com/gumi278/docusaurus-paginator-fix/main/src/theme/BlogPostPaginator/index.tsx
 ```
 
 
